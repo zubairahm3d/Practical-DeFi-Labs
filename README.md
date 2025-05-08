@@ -2,6 +2,9 @@
 
 Welcome to **Practical DeFi Labs for Beginners**, a structured, hands-on learning series designed to introduce learners to the world of Decentralized Finance (DeFi) without requiring any prior coding experience.
 
+![Cover](./assets/Banner.png)
+
+
 This repository contains a series of beginner-friendly labs, grouped by modules, to help you understand the key components, tools, and mechanisms within the DeFi ecosystem. Each lab includes detailed tasks, walkthroughs, and practical steps you can perform directly in the browser or using common DeFi platforms like MetaMask, Uniswap, Aave, and others.
 
 Whether you're a student, researcher, enthusiast, or aspiring DeFi contributor, this guide will take you through foundational to advanced topics in a practical and digestible format.
