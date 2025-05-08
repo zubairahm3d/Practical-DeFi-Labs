@@ -1,4 +1,4 @@
-# Lab 1: Understanding Blockchain Explorers
+# Practical DeFi Lab 1: Understanding Blockchain Explorers
 
 ## Overview
 In this lab, you'll learn how to use Etherscan, the most popular blockchain explorer for Ethereum. We'll explore how to track transactions, analyze wallet addresses, examine smart contracts, and understand network metrics - all essential skills for navigating the DeFi ecosystem.
